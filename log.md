@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 01: July 20, 2022 (Example 1)
-##### (delete me or comment me out)
+### Day 01: July 21, 2022
+##### (Data Visualization - Week 1)
 
-**Today's Progress**: I made notes for Course number 6, [Share data through the art of visualization](https://www.coursera.org/learn/visualize-data)
+**Today's Progress**: I made notes for Course number 6, weeek 1, [Share data through the art of visualization](https://www.coursera.org/learn/visualize-data)
 
 **Thoughts:** I remind myself of some of the techniques of effective learning, because course material is starting to accumulate. Since I have to make progress and remember everything I've learned so far, I recalled that some of the effective learning techniques had helped me in the past.
 
-**Link to work:** [Calculator App](http://www.example.com)
+--**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 02: July 22, 2022 
+##### (Data Visualization - Week 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I explored different types of visualization options, find interesting examples on when to use which
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: This course has a lot of reading materials. Before I start, I thought that it would be too easy. Turns out, there is a whole science behind data visualization. There are rules why some options are better then other.Explanations of which option to use are in Data Analysis repo.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 03: July 23, 2022
+##### (Data Visualization - Week 1)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [title](url)
+2. [title](url)
