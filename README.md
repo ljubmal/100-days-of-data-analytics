@@ -9,7 +9,7 @@ I will use [Log.md](https://github.com/ljubmal/100-days-of-data-analytics/blob/m
 ## About 100 Days Of Code - Rules 📋
 
 - 🥇All credits for creating **100 Days Of Code** belong to [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away)
- & [100DaysOfCode](https://twitter.com/_100DaysOfCode). You can find the original repo which you can fork here ‣
+ & [100DaysOfCode](https://twitter.com/_100DaysOfCode). You can find the original repo which you can fork here ‣ https://github.com/kallaway/100-days-of-code
     
     ## **If you’ve decided to join, here are the guides:**
     
