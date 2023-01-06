@@ -40,4 +40,6 @@ Some of the **resources** I’m using during this process are listed below:
 
 ---
 
+I'm tracking my progress in [Progress.md](https://github.com/ljubmal/100-days-of-data-analytics/blob/master/Progress.md) file.
+
 If you are interested in more details about 100 days challenges, go to https://github.com/kallaway/100-days-of-code
