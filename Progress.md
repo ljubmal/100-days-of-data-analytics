@@ -2,26 +2,22 @@
 
 ---
 
-📅 **Day 01:** July 20, 2022
+📅 **Day 01:** January 13, 2023
 
-**Today's topic**: Google Data Analytics - Visualization
+**Today's topic**: Python for Data Science, week 1 and 2
 
-**Today’s progress:** I made notes for Course number 6, [Share data through the art of visualization](https://www.coursera.org/learn/visualize-data)
+**Today’s progress:** I get familiar with Python data structures and data types. Learned more about expressions, variables, strings, tuples, lists, sets, and dictionaries. Also prepared my VS Code for some serious work with python.
 
-**Thoughts:** I remind myself of some of the techniques of effective learning because course material is starting to accumulate. Since I have to make progress and remember everything I've learned so far, I recalled that some of the effective learning techniques had helped me in the past.
+**Thoughts:** So far, so good.
 
-**Link to work:** [Calculator App](http://www.example.com/)
 
 ---
 
-📅 **Day 02:** July 21, 2022
+📅 **Day 0:** January 14, 2023
 
-**Today's topic**: Google Data Analytics - Visualization
+**Today's topic**: Python for Data Science, week 3
 
-**Today’s progress:** I made notes for Course number 6, [Share data through the art of visualization](https://www.coursera.org/learn/visualize-data)
+**Today’s progress:** Learned about conditions, loops, functions and classes in Python.
 
-**Thoughts:** I remind myself of some of the techniques of effective learning because course material is starting to accumulate. Since I have to make progress and remember everything I've learned so far, I recalled that some of the effective learning techniques had helped me in the past.
-
-**Link to work:** [Calculator App](http://www.example.com/)
 
 ---
