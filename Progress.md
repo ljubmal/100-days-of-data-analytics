@@ -13,7 +13,7 @@
 
 ---
 
-📅 **Day 0:** January 14, 2023
+📅 **Day 02:** January 14, 2023
 
 **Today's topic**: Python for Data Science, week 3
 
