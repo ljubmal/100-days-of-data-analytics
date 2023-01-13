@@ -17,7 +17,7 @@
 
 **Today's topic**: Python for Data Science, week 3
 
-**Today’s progress:** Learned about conditions, loops, functions and classes in Python.
+**Today’s progress:** Learned about conditions, loops, functions and classes in Python. This class reminded me of my developer days, when creating classes and methods (functions) was part of my daily routine.
 
 
 ---
