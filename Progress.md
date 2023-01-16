@@ -25,7 +25,7 @@
 
 **Today's topic**: Python for Data Science, week 4 and 5
 
-**Today’s progress:** Learned about Pandas, NumPy, working with APIs and webscrapping. Also performing ETL process (Extract, Transform, Load). Seems interesting so far. Next days I'm going to dedicate myself to polishing ETL techniques and working with APIs.
+**Today’s progress:** Learned about Pandas, NumPy, working with APIs and webscrapping. Also performing ETL process (Extract, Transform, Load). Seems interesting so far. Next days I'm going to dedicate myself to polishing ETL techniques and working with APIs, since this seems to be very important step in data analytics process. Also, Pandas and NumPy have a lot of important functionalities that require more attention, and several days in a row to learn and improve skills on that.
 
 
 ---
