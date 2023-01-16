@@ -21,3 +21,11 @@
 
 
 ---
+📅 **Day 03:** January 16, 2023
+
+**Today's topic**: Python for Data Science, week 4 and 5
+
+**Today’s progress:** Learned about Pandas, NumPy, working with APIs and webscrapping. Also performing ETL process (Extract, Transform, Load). Seems interesting so far. Next days I'm going to dedicate myself to polishing ETL techniques and working with APIs.
+
+
+---
