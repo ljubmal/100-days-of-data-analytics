@@ -28,3 +28,11 @@
 **Today’s progress:** Read about Pandas, NumPy, how to work with APIs and webscrapping. Also about performing ETL process (Extract, Transform, Load). Seems interesting so far. Next days I'm going to dedicate myself to polishing ETL techniques and working with APIs, since this seems to be very important step in data analytics process. Also, Pandas and NumPy have a lot of important functionalities that require more attention, and several days in a row to learn and improve skills on that.
 
 ---
+📅 **Day 04, 05, 06:** January 17-19, 2023
+
+**Today's topic**: ETL Process
+
+**Today’s progress:** Investigating about ETL process and its steps. It's used to extract data from legacy systems, transform it, which means to clean and provide data consistency, and finally to load it to a target database. 
+Extract can be performed from SQL or NoSQL servers, CRM or ERP systems, flatfiles, email and/or webpages.
+Transforming include filtering, validating, authenticating, encrypting, formatting, depending on the business task.
+Load implies that the transformed data is moved from the staging area into a target data warehouse.
