@@ -36,3 +36,17 @@
 Extract can be performed from SQL or NoSQL servers, CRM or ERP systems, flatfiles, email and/or webpages.
 Transforming include filtering, validating, authenticating, encrypting, formatting, depending on the business task.
 Load implies that the transformed data is moved from the staging area into a target data warehouse.
+
+---
+📅 **Day 07:** February 28, 2023
+
+**Today's topic**: Google Data Analytics materials
+
+**Today’s progress:** I read the study materials again, upload the materials for the first course, I have done exercises again.
+
+---
+📅 **Day 08:** Mart 01, 2023
+
+**Today's topic**: Google Data Analytics course 2, week 1 & 2 materials
+
+**Today’s progress:** I read the study materials again, upload the materials for the second course, I have done exercises again, fill in learning log materials...
