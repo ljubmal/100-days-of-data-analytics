@@ -42,14 +42,15 @@ Load implies that the transformed data is moved from the staging area into a tar
 
 **Today's topic**: Google Data Analytics materials
 
-**Today’s progress:** I read the study materials again, upload the materials for the first course, I have done exercises again.
+**Today’s progress:** From today, I'll repeat the material for Google Data Analytics Professional Certificate. I'll use my free time to commit myself to this track. Today I read about 6 steps of data analysis, data ecosystems, and the differences between data analysis and data science. I remind myself of 5 critical aspects of analytical thinking and what analytical skills mean. I read about spreadsheets, databases, and visualization tools. In the end, I read about fair practice in data analysis and the importance of an inclusive approach.
 
 ---
 📅 **Day 08:** Mart 01, 2023
 
 **Today's topic**: Google Data Analytics course 2, week 1 & 2 materials.
 
-Today’s progress: Today I read about data analyst job, problem solving using strategical thinking, what are steps that data analysts use to solve business problem. I've also read about 6 problem types, asking the SMART questions, and how to avoid leading, close-ended and vague questions. I read about reports and dashboards and find some very interesting solutions online. Also, learned about metrics, return of investments and customer rates. Later I remind myself of working with big data and its specifics.
+**Today’s progress**: Today I read about data analyst job, problem solving using strategical thinking, what are steps that data analysts use to solve business problem. I've also read about 6 problem types, asking the SMART questions, and how to avoid leading, close-ended and vague questions. I read about reports and dashboards and find some very interesting solutions online. Also, learned about metrics, return of investments and customer rates. Later I remind myself of working with big data and its specifics.
+
 ---
 📅 **Day 09 and 10:** Mart 05 and 06, 2023
 
