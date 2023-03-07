@@ -47,9 +47,9 @@ Load implies that the transformed data is moved from the staging area into a tar
 ---
 📅 **Day 08:** Mart 01, 2023
 
-**Today's topic**: Google Data Analytics course 2, week 1 & 2 materials
+**Today's topic**: Google Data Analytics course 2, week 1 & 2 materials.
 
-**Today’s progress:**  I read the study materials again, upload the materials for the second course, I have done exercises again, fill in learning log materials...
+Today’s progress: Today I read about data analyst job, problem solving using strategical thinking, what are steps that data analysts use to solve business problem. I've also read about 6 problem types, asking the SMART questions, and how to avoid leading, close-ended and vague questions. I read about reports and dashboards and find some very interesting solutions online. Also, learned about metrics, return of investments and customer rates. Later I remind myself of working with big data and its specifics.
 ---
 📅 **Day 09 and 10:** Mart 05 and 06, 2023
 
