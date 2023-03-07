@@ -49,4 +49,10 @@ Load implies that the transformed data is moved from the staging area into a tar
 
 **Today's topic**: Google Data Analytics course 2, week 1 & 2 materials
 
-**Today’s progress:** I read the study materials again, upload the materials for the second course, I have done exercises again, fill in learning log materials...
+**Today’s progress:**  I read the study materials again, upload the materials for the second course, I have done exercises again, fill in learning log materials...
+---
+📅 **Day 09 and 10:** Mart 05 and 06, 2023
+
+**Today's topic**: Google Data Analytics course 2, week 3 & 4 materials
+
+**Today's progress:** Investigate a scope of work and its importance in the data analytic process. I remind myself of working with stakeholders and why it is important to have clear and open communication with them as well as other members of the team who participate in the data analysis process. Also, read about how dirty data may harm analysis and, as a result - the business, and what to do when there is not enough data or when we have to deal with dirty data. It's clear why data integrity is crucial - it directly affects the analysis result.
