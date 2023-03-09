@@ -63,16 +63,15 @@ Load implies that the transformed data is moved from the staging area into a tar
 
 **Today's topic**: Google Data Analytics Course 3, week 1 & 2 lessons
 
-**Today's progress:** I read about data types and structures, what factors to consider when collecting data, data modeling and its 3 levels (conceptual, logical and physical), and techniques - UML and ER diagrams. I also read about wide and long data. One of the most important parts of preparing data for analysis is data transformation, which is a process where we adjust our data for further analysis. That includes adding, copin, replicating data, deleting missing records, standardizing names of variables, renaming or combining columns and saving file in different file format (.xlsx to .csv for example).
-I read about biases in data (sampling, observer, interpretation and confirmation biases). Learned about why data credibility is important, and ROCCC proces for ensuring credibility. Ethics and data ethics and its 6 aspects (ownership, transaction transparency, consent, currency, privacy and protection and opennes.
-Learned about data privacy and protection and what is considered as person's legal rights to their data. Also read about 3 principles of opennes of data (opennes, reuse and distribution, and interoperability) and Personal identifiable information (PII).
+**Today's progress:** I read about data types and structures, what factors to consider when collecting data, data modeling and its 3 levels (conceptual, logical, and physical), and techniques - UML and ER diagrams. I also read about wide and long data. One of the essential parts of preparing data for analysis is data transformation, a process where we adjust our data for further research. That includes adding, copying, replicating data, deleting missing records, standardizing names of variables, renaming or combining columns, and saving files in different formats (.xlsx to .csv, for example). 
+I read about biases in data (sampling, observer, interpretation, and confirmation biases). I learned why data credibility is important and the ROCCC process for ensuring credibility. Ethics and data ethics and its 6 aspects (ownership, transaction transparency, consent, currency, privacy,  protection, and openness. Learned about data privacy and protection and what is considered a person's legal rights to their data. Also, read about 3 principles of data openness (openness, reuse and distribution, and interoperability) and Personal identifiable information (PII).
 
 ---
 📅 **Day 13:** Mart 09, 2023
 
 **Today's topic**: Google Data Analytics Course 3, week 3 lesson
 
-**Today's progress:** Read about relational databases, install Northwind, AdventureWorksLT and Pubs databases for practice purpose. Then I use guidelines from course - inspecting datasets, find NULL values, explore data types, fields and values, relationships between tables...
-I read more about types of metadata (descriptive, structural and administrative) and why are they important (putting data into context, makes the data more reliable). Way of storing metadata - in a single central location. Data governance - manages roles and responsibilities related to data assets. Metadata specialists - create basic metadata information.
-Internal and external data, naming conventions and data security and its purpose.
+**Today's progress:** I read about relational databases and installed Northwind, AdventureWorksLT, and Pubs databases for practice purposes. Then I use guidelines from the course - inspecting datasets, finding NULL values, exploring data types, fields, and values, and relationships between tables...
+I read more about types of metadata (descriptive, structural, and administrative) and why they are important (putting data into context makes the data more reliable). Way of storing metadata - in a single central location. Data governance - manages roles and responsibilities related to data assets. Metadata specialists - create basic metadata information.
+I learned more about internal and external data, naming conventions, data security, and its purpose.
 
