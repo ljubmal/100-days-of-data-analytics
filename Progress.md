@@ -47,25 +47,32 @@ Load implies that the transformed data is moved from the staging area into a tar
 ---
 📅 **Day 08:** Mart 01, 2023
 
-**Today's topic**: Google Data Analytics course 2, week 1 & 2 materials.
+**Today's topic**: Google Data Analytics course 2, week 1 & 2 lessons.
 
 **Today’s progress**: Today I read about data analyst job, problem solving using strategical thinking, what are steps that data analysts use to solve business problem. I've also read about 6 problem types, asking the SMART questions, and how to avoid leading, close-ended and vague questions. I read about reports and dashboards and find some very interesting solutions online. Also, learned about metrics, return of investments and customer rates. Later I remind myself of working with big data and its specifics.
 
 ---
 📅 **Day 09 and 10:** Mart 05 and 06, 2023
 
-**Today's topic**: Google Data Analytics course 2, week 3 & 4 materials
+**Today's topic**: Google Data Analytics course 2, week 3 & 4 lessons
 
 **Today's progress:** Investigate a scope of work and its importance in the data analytic process. I remind myself of working with stakeholders and why it is important to have clear and open communication with them as well as other members of the team who participate in the data analysis process. Also, read about how dirty data may harm analysis and, as a result - the business, and what to do when there is not enough data or when we have to deal with dirty data. It's clear why data integrity is crucial - it directly affects the analysis result.
 
 ---
 📅 **Day 11 and 12:** Mart 07 and 08, 2023
 
-**Today's topic**: Google Data Analytics Course 3, week 1 & 2 materials
+**Today's topic**: Google Data Analytics Course 3, week 1 & 2 lessons
 
 **Today's progress:** I read about data types and structures, what factors to consider when collecting data, data modeling and its 3 levels (conceptual, logical and physical), and techniques - UML and ER diagrams. I also read about wide and long data. One of the most important parts of preparing data for analysis is data transformation, which is a process where we adjust our data for further analysis. That includes adding, copin, replicating data, deleting missing records, standardizing names of variables, renaming or combining columns and saving file in different file format (.xlsx to .csv for example).
 I read about biases in data (sampling, observer, interpretation and confirmation biases). Learned about why data credibility is important, and ROCCC proces for ensuring credibility. Ethics and data ethics and its 6 aspects (ownership, transaction transparency, consent, currency, privacy and protection and opennes.
 Learned about data privacy and protection and what is considered as person's legal rights to their data. Also read about 3 principles of opennes of data (opennes, reuse and distribution, and interoperability) and Personal identifiable information (PII).
 
+---
+📅 **Day 13:** Mart 09, 2023
 
+**Today's topic**: Google Data Analytics Course 3, week 3 lesson
+
+**Today's progress:** Read about relational databases, install Northwind, AdventureWorksLT and Pubs databases for practice purpose. Then I use guidelines from course - inspecting datasets, find NULL values, explore data types, fields and values, relationships between tables...
+I read more about types of metadata (descriptive, structural and administrative) and why are they important (putting data into context, makes the data more reliable). Way of storing metadata - in a single central location. Data governance - manages roles and responsibilities related to data assets. Metadata specialists - create basic metadata information.
+Internal and external data, naming conventions and data security and its purpose.
 
