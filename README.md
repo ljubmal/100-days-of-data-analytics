@@ -2,7 +2,7 @@
 
 I’ve joined the **#100DaysOfCode** and adjusted these files to **#100DaysOfData** because I want to dedicate my time to data analytics. 
 
-I will use [Log.md](https://github.com/ljubmal/100-days-of-data-analytics/blob/master/log.md) file to track my progress.
+I will use [Progress.md](https://github.com/ljubmal/100-days-of-data-analytics/blob/master/Progress.md) file to track my progress.
 
 ---
 
