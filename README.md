@@ -8,18 +8,18 @@ I will use [Progress.md](https://github.com/ljubmal/100-days-of-data-analytics/b
 
 ## About 100 Days Of Code - Rules 📋
 
-- 🥇All credits for creating **100 Days Of Code** belong to [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away)
+🥇All credits for creating **100 Days Of Code** belong to [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away)
  & [100DaysOfCode](https://twitter.com/_100DaysOfCode). You can find the original repo which you can fork here ‣ https://github.com/kallaway/100-days-of-code
     
-    ## **If you’ve decided to join, here are the guides:**
+### If you’ve decided to join, here are the guides:
     
-    1. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: [www.100DaysOfCode.com/connect](http://www.100daysofcode.com/connect)Also, [here](https://www.100daysofcode.com/slack) is an invite link to the 100DaysOfCode Slack channel
-    2. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-    3. Fork [this repo](https://github.com/kallaway/100-days-of-code) and commit to the [Log](https://dillinger.io/log.md) or to the Alternative, rapid [R1 Log](https://dillinger.io/r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-    4. **Code a minimum of an hour every day for the next 100 days.**
-    5. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-    6. Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It’s a great way to keep yourself motivated and to participate in the community. Thanks, [@amanhimself](https://twitter.com/amanhimself) for creating it!
-    7. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo or just tweet it [to Alex](https://twitter.com/ka11away).
+   1. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: [www.100DaysOfCode.com/connect](http://www.100daysofcode.com/connect). Also, [here](https://www.100daysofcode.com/slack) is an invite link to the 100DaysOfCode Slack channel
+   2. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
+   3. Fork [this repo](https://github.com/kallaway/100-days-of-code) and commit to the [Log](https://dillinger.io/log.md) or to the Alternative, rapid [R1 Log](https://dillinger.io/r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
+   4. **Code a minimum of an hour every day for the next 100 days.**
+   5. **Tweet your progress every day using the #100DaysOfCode hashtag.**
+   6. Follow [Alex, creator of #100DaysOfCode](https://twitter.com/ka11away) & [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It’s a great way to keep yourself motivated and to participate in the community. Thanks, [@amanhimself](https://twitter.com/amanhimself) for creating it!
+   7. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo or just tweet it [to Alex](https://twitter.com/ka11away).
 
 ---
 
