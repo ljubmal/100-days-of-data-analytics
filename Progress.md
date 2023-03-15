@@ -95,3 +95,12 @@ I learn about sample size terminology (population, sample, margin of error, conf
 Further, I learn about statistical power and hypothesis testing and what it means for the result to be statistically significant, and what to do when there is no data.
 
 **Thoughts:** It takes special caution when merging data from different sources since there is usually no common data formatting. Data constraints should be applied here and provide criteria for validity and safe analysis. Working with date formats is a special treat since it can be formatted in several ways, sometimes recognized as a text or varchar in sql. Important to remember is not to use a sample size of less than 30 and that the confidence level must be at least 90%, 95% even better.
+
+---
+📅 **Day 17:** Mart 14, 2023
+
+**Today's topic**: Google Data Analytics Course 4, week 2
+
+**Today's progress:** 
+
+**Thoughts:** 
