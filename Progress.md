@@ -89,6 +89,6 @@ I learned more about internal and external data, naming conventions, data securi
 
 **Today's topic**: Google Data Analytics Course 4
 
-**Today's progress:** 
+**Today's progress:** I learned about data integrity, why it is important and how it can be compromised during any time data is replicated, transferred or manipulated in any way. Data can also be compromised  trough human error, viruses, malware, hacking and system failures.
 
-**Thoughts:** 
+**Thoughts:** It takse special causion when merging data from different sources, since there is usually no common data formatting
