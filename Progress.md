@@ -85,7 +85,7 @@ I learned more about internal and external data, naming conventions, data securi
 **Thoughts:** BigQuery is a working environment much easier to use for now, since SQL can be directly written, while in Kaggle, some programming needs to be done (with Python or R) to set the notebook environment for use every time. However, Kaggle allows us to make notebooks or scripts, while BigQuery and SQL Server are used to query results and save queries as scripts. SQL Server also allows us to perform CRUD (Create, Read, Update, Delete) operations on data, while in BigQuery, we can only query data with the basic account.
 
 ---
-📅 **Day 6:** Mart 13, 2023
+📅 **Day 16:** Mart 13, 2023
 
 **Today's topic**: Google Data Analytics Course 4, week 1
 
