@@ -87,8 +87,11 @@ I learned more about internal and external data, naming conventions, data securi
 ---
 📅 **Day 6:** Mart 13, 2023
 
-**Today's topic**: Google Data Analytics Course 4
+**Today's topic**: Google Data Analytics Course 4, week 1
 
-**Today's progress:** I learned about data integrity, why it is important and how it can be compromised during any time data is replicated, transferred or manipulated in any way. Data can also be compromised  trough human error, viruses, malware, hacking and system failures.
+**Today's progress:** I learned about data integrity, why it is crucial, and how it can be compromised at any time data is replicated, transferred, or manipulated in any way. Data can also be compromised through human error, viruses, malware, hacking, or system failures.
+I read about different problems with data and what to do when there is no data, too little data, or when data contain errors. Also, how to deal with insufficient data.
+I learn about sample size terminology (population, sample, margin of error, confidence level, confidence interval, and statistical significance).
+Further, I learn about statistical power and hypothesis testing and what it means for the result to be statistically significant, and what to do when there is no data.
 
-**Thoughts:** It takse special causion when merging data from different sources, since there is usually no common data formatting. Data constraints take place here and provide criteria to determine validity and provide safe analysis. 
+**Thoughts:** It takes special caution when merging data from different sources since there is usually no common data formatting. Data constraints should be applied here and provide criteria for validity and safe analysis. Working with date formats is a special treat since it can be formatted in several ways, sometimes recognized as a text or varchar in sql. Important to remember is not to use a sample size of less than 30 and that the confidence level must be at least 90%, 95% even better.
