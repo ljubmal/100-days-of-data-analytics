@@ -91,4 +91,4 @@ I learned more about internal and external data, naming conventions, data securi
 
 **Today's progress:** I learned about data integrity, why it is important and how it can be compromised during any time data is replicated, transferred or manipulated in any way. Data can also be compromised  trough human error, viruses, malware, hacking and system failures.
 
-**Thoughts:** It takse special causion when merging data from different sources, since there is usually no common data formatting
+**Thoughts:** It takse special causion when merging data from different sources, since there is usually no common data formatting. Data constraints take place here and provide criteria to determine validity and provide safe analysis. 
