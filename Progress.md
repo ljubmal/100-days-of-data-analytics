@@ -103,4 +103,10 @@ Further, I learn about statistical power and hypothesis testing and what it mean
 
 **Today's progress:** I read about types of human errors as the most common factor for poor-quality data. Also, read about other types of dirty data (duplicated, outdated, incomplete, incorrect/inaccurate, and inconsistent data) and why data validation is important. Further, I learned about principles of data integrity (validity, accuracy, completeness), data cleaning tools, techniques, and mistakes.
 
-**Thoughts:** 
+---
+📅 **Day 18:** Mart 15, 2023
+
+**Today's topic**: Google Data Analytics Course 4, week 3
+
+**Today's progress:** 
+
